@@ -1,11 +1,10 @@
-package Lab1;
+package LabExercises.Lab1;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
-import java.time.temporal.TemporalAdjusters;
 
 /**
  * LocalDateTime tests

@@ -1,11 +1,10 @@
-package Lab1;
+package LabExercises.Lab1;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 import static java.util.Arrays.sort;
 

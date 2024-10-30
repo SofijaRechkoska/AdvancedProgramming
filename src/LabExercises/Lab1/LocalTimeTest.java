@@ -1,8 +1,7 @@
-package Lab1;
+package LabExercises.Lab1;
 
 import java.time.Duration;
 import java.time.LocalTime;
-import java.time.temporal.ChronoField;
 import java.time.temporal.ChronoUnit;
 
 /**

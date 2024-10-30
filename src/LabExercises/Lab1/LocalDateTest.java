@@ -1,9 +1,6 @@
-package Lab1;
+package LabExercises.Lab1;
 
-import java.sql.Date;
-import java.sql.Timestamp;
 import java.time.*;
-import java.time.temporal.TemporalAdjuster;
 import java.time.temporal.TemporalAdjusters;
 
 
